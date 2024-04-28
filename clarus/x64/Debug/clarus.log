@@ -1,0 +1,7 @@
+﻿  functions.cpp
+  mainform.cpp
+  objects.cpp
+  procedurs.cpp
+  Создание кода...
+  functions.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  clarus.vcxproj -> D:\CODING\C\templates\VStemplates\clarus\clarus\x64\Debug\clarus.exe
