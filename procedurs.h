@@ -2,5 +2,5 @@
 #include "objects.h"
 #include "functions.h"
 namespace proc_r {
-	// наборы функций
+	// РЅР°Р±РѕСЂС‹ С„СѓРЅРєС†РёР№
 }

@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\CODING\\C\\templates\\VStemplates\\clarus\\clarus\\",
+  "WorkspaceRootPath": "D:\\CODING\\C\\WIP\\clarus\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|D:\\CODING\\C\\templates\\VStemplates\\clarus\\clarus\\functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|solutionrelative:functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|D:\\CODING\\C\\templates\\VStemplates\\clarus\\clarus\\functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|solutionrelative:functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|D:\\CODING\\C\\templates\\VStemplates\\clarus\\clarus\\procedurs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|solutionrelative:procedurs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|D:\\CODING\\C\\templates\\VStemplates\\clarus\\clarus\\procedurs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|solutionrelative:procedurs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|D:\\CODING\\C\\templates\\VStemplates\\clarus\\clarus\\objects.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|solutionrelative:objects.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|D:\\CODING\\C\\templates\\VStemplates\\clarus\\clarus\\objects.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|D:\\CODING\\C\\WIP\\clarus\\objects.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|solutionrelative:objects.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|D:\\CODING\\C\\templates\\VStemplates\\clarus\\clarus\\mainform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|D:\\CODING\\C\\WIP\\clarus\\functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|solutionrelative:functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|D:\\CODING\\C\\WIP\\clarus\\functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|solutionrelative:functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|D:\\CODING\\C\\WIP\\clarus\\procedurs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|solutionrelative:procedurs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|D:\\CODING\\C\\WIP\\clarus\\procedurs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|solutionrelative:procedurs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|D:\\CODING\\C\\WIP\\clarus\\objects.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|solutionrelative:objects.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|D:\\CODING\\C\\WIP\\clarus\\mainform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|solutionrelative:mainform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|D:\\CODING\\C\\templates\\VStemplates\\clarus\\clarus\\mainform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|D:\\CODING\\C\\WIP\\clarus\\mainform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|solutionrelative:mainform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|D:\\CODING\\C\\templates\\VStemplates\\clarus\\clarus\\mainform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "AbsoluteMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|D:\\CODING\\C\\WIP\\clarus\\mainform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
       "RelativeMoniker": "D:0:0:{3CB39FDF-8CD2-4E07-9B72-7642BD9F7C5A}|clarus.vcxproj|solutionrelative:mainform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
     }
   ],
@@ -46,15 +46,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "functions.cpp",
-              "DocumentMoniker": "D:\\CODING\\C\\templates\\VStemplates\\clarus\\clarus\\functions.cpp",
+              "DocumentMoniker": "D:\\CODING\\C\\WIP\\clarus\\functions.cpp",
               "RelativeDocumentMoniker": "functions.cpp",
-              "ToolTip": "D:\\CODING\\C\\templates\\VStemplates\\clarus\\clarus\\functions.cpp",
+              "ToolTip": "D:\\CODING\\C\\WIP\\clarus\\functions.cpp",
               "RelativeToolTip": "functions.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -65,9 +65,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "functions.h",
-              "DocumentMoniker": "D:\\CODING\\C\\templates\\VStemplates\\clarus\\clarus\\functions.h",
+              "DocumentMoniker": "D:\\CODING\\C\\WIP\\clarus\\functions.h",
               "RelativeDocumentMoniker": "functions.h",
-              "ToolTip": "D:\\CODING\\C\\templates\\VStemplates\\clarus\\clarus\\functions.h",
+              "ToolTip": "D:\\CODING\\C\\WIP\\clarus\\functions.h",
               "RelativeToolTip": "functions.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -76,24 +76,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "objects.cpp",
-              "DocumentMoniker": "D:\\CODING\\C\\templates\\VStemplates\\clarus\\clarus\\objects.cpp",
+              "DocumentMoniker": "D:\\CODING\\C\\WIP\\clarus\\objects.cpp",
               "RelativeDocumentMoniker": "objects.cpp",
-              "ToolTip": "D:\\CODING\\C\\templates\\VStemplates\\clarus\\clarus\\objects.cpp",
+              "ToolTip": "D:\\CODING\\C\\WIP\\clarus\\objects.cpp",
               "RelativeToolTip": "objects.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-28T19:14:41.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T19:14:41.501Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "objects.h",
-              "DocumentMoniker": "D:\\CODING\\C\\templates\\VStemplates\\clarus\\clarus\\objects.h",
+              "DocumentMoniker": "D:\\CODING\\C\\WIP\\clarus\\objects.h",
               "RelativeDocumentMoniker": "objects.h",
-              "ToolTip": "D:\\CODING\\C\\templates\\VStemplates\\clarus\\clarus\\objects.h",
+              "ToolTip": "D:\\CODING\\C\\WIP\\clarus\\objects.h",
               "RelativeToolTip": "objects.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -102,67 +101,62 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "procedurs.cpp",
-              "DocumentMoniker": "D:\\CODING\\C\\templates\\VStemplates\\clarus\\clarus\\procedurs.cpp",
+              "DocumentMoniker": "D:\\CODING\\C\\WIP\\clarus\\procedurs.cpp",
               "RelativeDocumentMoniker": "procedurs.cpp",
-              "ToolTip": "D:\\CODING\\C\\templates\\VStemplates\\clarus\\clarus\\procedurs.cpp",
+              "ToolTip": "D:\\CODING\\C\\WIP\\clarus\\procedurs.cpp",
               "RelativeToolTip": "procedurs.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-28T19:12:52.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T19:12:52.437Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "procedurs.h",
-              "DocumentMoniker": "D:\\CODING\\C\\templates\\VStemplates\\clarus\\clarus\\procedurs.h",
+              "DocumentMoniker": "D:\\CODING\\C\\WIP\\clarus\\procedurs.h",
               "RelativeDocumentMoniker": "procedurs.h",
-              "ToolTip": "D:\\CODING\\C\\templates\\VStemplates\\clarus\\clarus\\procedurs.h",
+              "ToolTip": "D:\\CODING\\C\\WIP\\clarus\\procedurs.h",
               "RelativeToolTip": "procedurs.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-28T19:11:32.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T19:11:32.08Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "mainform.h",
-              "DocumentMoniker": "D:\\CODING\\C\\templates\\VStemplates\\clarus\\clarus\\mainform.h",
+              "DocumentMoniker": "D:\\CODING\\C\\WIP\\clarus\\mainform.h",
               "RelativeDocumentMoniker": "mainform.h",
-              "ToolTip": "D:\\CODING\\C\\templates\\VStemplates\\clarus\\clarus\\mainform.h",
+              "ToolTip": "D:\\CODING\\C\\WIP\\clarus\\mainform.h",
               "RelativeToolTip": "mainform.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-28T13:04:03.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T13:04:03.722Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "mainform.cpp",
-              "DocumentMoniker": "D:\\CODING\\C\\templates\\VStemplates\\clarus\\clarus\\mainform.cpp",
+              "DocumentMoniker": "D:\\CODING\\C\\WIP\\clarus\\mainform.cpp",
               "RelativeDocumentMoniker": "mainform.cpp",
-              "ToolTip": "D:\\CODING\\C\\templates\\VStemplates\\clarus\\clarus\\mainform.cpp",
+              "ToolTip": "D:\\CODING\\C\\WIP\\clarus\\mainform.cpp",
               "RelativeToolTip": "mainform.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-28T13:03:48.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T13:03:48.617Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "mainform.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\CODING\\C\\templates\\VStemplates\\clarus\\clarus\\mainform.h",
+              "DocumentMoniker": "D:\\CODING\\C\\WIP\\clarus\\mainform.h",
               "RelativeDocumentMoniker": "mainform.h",
               "ToolTip": "D:\\CODING\\C\\templates\\VStemplates\\clarus\\clarus\\mainform.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "mainform.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\templates\\VStemplates\\clarus\\clarus\\mainform.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-28T13:00:32.022Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2024-04-28T13:00:32.022Z"
             }
           ]
         }
